@@ -1,4 +1,5 @@
-.eunit
 ebin_tests/*
+ebin/*.beam
 extra/*.beam
 *#*
+.eunit
