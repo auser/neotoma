@@ -2,3 +2,4 @@ ebin/*.beam
 ebin_tests/*
 extra/*.beam
 *#*
+.eunit
